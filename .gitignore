@@ -1,0 +1,14 @@
+# Ignore IDE files
+.idea/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Exclude virtual environment folder
+venv/
+
+# Exclude config file
+config.py
+
+# Exclude all PNG files
+*.png
